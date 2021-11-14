@@ -1,0 +1,3 @@
+# notes-app
+my diary app...
+This is a basic app that show you how to connect with sqflite in android or ios.
